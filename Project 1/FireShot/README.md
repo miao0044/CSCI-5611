@@ -6,7 +6,7 @@
 - Simulation Context
 - 3D Scene
 - Improved Boid Rendering
-- Performance Benchmarks (Around 7000-9000 particles with >30 FPS)
+- Performance Benchmarks (Around 1300 particles with >30 FPS)
 - Particle System Simulation
 - Art Contest
 - Project Report & Video
