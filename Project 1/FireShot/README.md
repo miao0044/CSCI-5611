@@ -23,8 +23,7 @@
 
 ## Difficulities
 - Camera, camera, camera! I spend 6 hours trying to fix the camera, and it just does not show anything... I was so depressed at that time, and thought about dropping this course. But after I went to SJG's office hour and take a look at the camera example, I finally got it fixed.
-- Some of the images I found on internet are not showing the color they are supposed to show (e.x. red fireball showing grey). I did so many trails, and finally figured out that is because of the size of the image is too large, so the particle is only showing the tiny corner of the image.
-- I tried to add variety colors to the firebeam, but the frame rate just ended up dropping to around 10, which is too low. So I only used orange fire instead, although I programmed 3 different colors.
+- Some of the images I found on internet are not showing the color they are supposed to show (e.x. red fireball showing grey). I did so many trails, and finally figured out that is because of the size of the image is too large, so the particle is only showing the tiny corner of the image ---- which could be completely different from what I expected.
 
 ## Video
 
